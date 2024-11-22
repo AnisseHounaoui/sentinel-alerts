@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [New executable via Office FileUploaded Operation](new-executable-via-office-fileuploaded-operation.md)
+* [Rare and potentially high-risk Office operations](rare-and-potentially-high-risk-office-operations.md)
+* [A potentially malicious URL click was detected](a-potentially-malicious-url-click-was-detected.md)
+* [Anonymous IP address involving one user](anonymous-ip-address-involving-one-user.md)
+* [Suspicious Scheduled Task Process Launched on one endpoint](suspicious-scheduled-task-process-launched-on-one-endpoint.md)
+* [unwanted software was detected on one endpoint](unwanted-software-was-detected-on-one-endpoint.md)
+* [Phish delivered due to an ETR override](phish-delivered-due-to-an-etr-override.md)
+* [Multiple Failed logon attempts folowed by a success](multiple-failed-logon-attempts-folowed-by-a-success.md)
+* [Successful signin from foreign country](successful-signin-from-foreign-country.md)
+* [Multi-stage incident involving Initial access & Credential access involving one user](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/README.md)
+  * [Unfamiliar sign-in properties](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/unfamiliar-sign-in-properties.md)
+  * [Atypical travel](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/atypical-travel.md)
+  * [Password Spray](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/password-spray.md)
