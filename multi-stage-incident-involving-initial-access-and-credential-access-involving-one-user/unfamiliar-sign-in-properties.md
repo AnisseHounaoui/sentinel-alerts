@@ -4,15 +4,21 @@
 
 #### Explanation:&#x20;
 
-The alert comes from Microsoft Defender for Identity. It's triggered when there's a sign-in attempt with one or multiple of these unfamiliar properties:
+The alert comes from Microsoft Defender for Identity. It triggers when a sign-in property is detected and differ from different baseline properties of the specific user.
+
+> explain learning mode
 
 
 
-test
+For example, when a user used to signin from a device and then changes the device
+
+This is a list of different sign-in properties that Defender checks for unfamiliarity:
+
+*
 
 #### Impact:&#x20;
 
-* Lateral mouvement attack through cloud services (Teams, Sharepoint...)
+*
 
 ### IOCs and valuable infos:
 
