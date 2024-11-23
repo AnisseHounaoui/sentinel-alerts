@@ -4,7 +4,7 @@
 
 #### Explanation:&#x20;
 
-This alert trigers when a user upload a file that contains file extensions of an executable (.exe, .cmd, .bat...) to Office services (Onedrive, Teams, etc...)
+[https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#atypical-travel](https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#atypical-travel)
 
 #### Impact:&#x20;
 
