@@ -14,11 +14,11 @@ For example, when a user used to signin from a device and then changes the devic
 
 This is a list of different sign-in properties that Defender checks for unfamiliarity:
 
-*
+* this is
 
 #### Impact:&#x20;
 
-*
+* Lateral mouvement attack through cloud services (Teams, Sharepoint...)
 
 ### IOCs and valuable infos:
 
