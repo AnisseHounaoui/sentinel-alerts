@@ -33,20 +33,33 @@ This is a list of different sign-in properties that Defender checks for unfamili
 
 ### IOCs and valuable infos:
 
-* Files uploaded
+*
 *
 
 ### Queries used:
 
+* This query is used to detect recent unfamiliar sign-in properties and join them with the user's information and see if the sign in is blocked+reason and if password entered is correct an
+
 ```
-// Some code
 ```
 
 
 
 ### Actions taken to mitigate the threat:
 
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+
 
 
 ### Threat Huting
+
+* Query to display all risky sign-ins (unfamiliar) from users without MFA enables
+
+```
+```
+
+* Query to show details about the users who had a "correct password" for a sign-in with unfamiliar sign-in properties
+
+```
+```
 

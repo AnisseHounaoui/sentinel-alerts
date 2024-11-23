@@ -14,3 +14,4 @@
   * [Unfamiliar sign-in properties](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/unfamiliar-sign-in-properties.md)
   * [Atypical travel](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/atypical-travel.md)
   * [Password Spray](multi-stage-incident-involving-initial-access-and-credential-access-involving-one-user/password-spray.md)
+* [Risky sign-in detections](risky-sign-in-detections.md)
